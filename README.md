@@ -1,5 +1,7 @@
 # Welcome to prowlarr
 
+[![App Status](https://argocd-internal.spirit-dev.net/api/badge?name=prowlarr-turingpi&revision=true&showAppName=true)](https://argocd-internal.spirit-dev.net/applications/prowlarr-turingpi)
+
 ## Table of content
 
 - [Welcome to prowlarr](#welcome-to-prowlarr)
